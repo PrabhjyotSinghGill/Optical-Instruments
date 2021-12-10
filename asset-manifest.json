@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Optical-Instruments/static/css/main.5ccb1ec1.chunk.css",
+    "main.js": "/Optical-Instruments/static/js/main.3388fbfb.chunk.js",
+    "main.js.map": "/Optical-Instruments/static/js/main.3388fbfb.chunk.js.map",
+    "runtime-main.js": "/Optical-Instruments/static/js/runtime-main.b16babb9.js",
+    "runtime-main.js.map": "/Optical-Instruments/static/js/runtime-main.b16babb9.js.map",
+    "static/js/2.800181a5.chunk.js": "/Optical-Instruments/static/js/2.800181a5.chunk.js",
+    "static/js/2.800181a5.chunk.js.map": "/Optical-Instruments/static/js/2.800181a5.chunk.js.map",
+    "index.html": "/Optical-Instruments/index.html",
+    "static/css/main.5ccb1ec1.chunk.css.map": "/Optical-Instruments/static/css/main.5ccb1ec1.chunk.css.map",
+    "static/js/2.800181a5.chunk.js.LICENSE.txt": "/Optical-Instruments/static/js/2.800181a5.chunk.js.LICENSE.txt",
+    "static/media/i2.43af8c3e.jpg": "/Optical-Instruments/static/media/i2.43af8c3e.jpg",
+    "static/media/App.css": "/Optical-Instruments/static/media/i8.fabdf94d.jpg",
+    "static/media/i9.f97f588f.jpg": "/Optical-Instruments/static/media/i9.f97f588f.jpg",
+    "static/media/v3.f484a7c0.mp4": "/Optical-Instruments/static/media/v3.f484a7c0.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b16babb9.js",
+    "static/js/2.800181a5.chunk.js",
+    "static/css/main.5ccb1ec1.chunk.css",
+    "static/js/main.3388fbfb.chunk.js"
+  ]
+}
